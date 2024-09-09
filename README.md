@@ -1,4 +1,4 @@
-## Descobrindo os países - Imersão DEV com o Google Gemini
+Descobrindo os países - Imersão DEV com o Google Gemini
 
 **## Desvendando o Mundo em um Click! **
 
@@ -42,5 +42,5 @@ Seu conhecimento pode deixar a aplicação ainda mais incrível! Se você tiver 
 **Vamos juntos explorar o mundo!** 
 
 
-* Este é meu primeiro projeto *
+*Este é meu primeiro projeto*
 **#DesenvolvimentoWeb #JavaScript #HTML #CSS #ExplorarOMundo**
